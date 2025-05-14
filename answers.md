@@ -1,30 +1,30 @@
 ## Question 1: 
-C
+C ✅ 
 ## Question 2:
-B
+B ✅ 
 ## Question 3:
-B
+B ✅ 
 ## Question 4:
-A
+A ❌
 ## Question 5:
-C
+C ✅ 
 ## Question 6:
-B
+B ✅ 
 ## Question 7:
-C
+C ✅ 
 ## Question 8:
-D
+D ❌
 ## Question 9:
-C
+C ❌
 ## Question 10:
-A
+A ❌
 ## Question 11:
-C
+C ✅
 ## Question 12:
-B
+B ✅
 ## Question 13:
-B
+B ✅
 ## Question 14:
-B
+B ✅
 ## Question 15:
-A
+A ✅
